@@ -51,6 +51,11 @@ namespace UserMaintenance
                 listUsers.Text = saveFileDialog1.FileName;
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            users.Remove((User)listUsers.SelectedItem);
+        }
     }
     
 }
