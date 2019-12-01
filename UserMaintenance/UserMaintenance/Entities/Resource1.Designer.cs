@@ -70,6 +70,15 @@ namespace UserMaintenance.Entities {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Fájlba írás.
+        /// </summary>
+        internal static string ButtonFile {
+            get {
+                return ResourceManager.GetString("ButtonFile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Teljes név.
         /// </summary>
         internal static string FullName {

@@ -121,6 +121,10 @@
     <value>Hozzáadás</value>
     <comment>Hozzáadás</comment>
   </data>
+  <data name="ButtonFile" xml:space="preserve">
+    <value>Fájlba írás</value>
+    <comment>Fáljba írás gomb szövege</comment>
+  </data>
   <data name="FullName" xml:space="preserve">
     <value>Teljes név</value>
     <comment>Teljes név</comment>
