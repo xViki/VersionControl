@@ -121,12 +121,8 @@
     <value>Hozzáadás</value>
     <comment>Hozzáadás</comment>
   </data>
-  <data name="FirstName" xml:space="preserve">
-    <value>Keresztnév</value>
-    <comment>Keresztnév</comment>
-  </data>
-  <data name="LastName" xml:space="preserve">
-    <value>Vezetéknév</value>
-    <comment>Vezetéknév</comment>
+  <data name="FullName" xml:space="preserve">
+    <value>Teljes név</value>
+    <comment>Teljes név</comment>
   </data>
 </root>
